@@ -2,3 +2,21 @@ ul,li{
     list-style-type: none;
     list-style: none;
 }
+h1{ 
+    background-color: blue;}
+table{
+    color: black;
+    background-color: gray;   
+    border-style: solid;
+}
+
+a{
+    color: black;
+    
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+
+}
