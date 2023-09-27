@@ -34,7 +34,12 @@ a{
 
 .container1{
     display: flex;
-    
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+.str{
+flex: 1;
 }
 
 .Re{
@@ -47,24 +52,26 @@ a{
    color: #DDA74F;
 }
 .img{
-    height: 250px;
+    height: 400px;
+    width: 400px;
     padding-bottom: 50px;
     padding-top: 50px;   
     margin-left: 0px;   
-    flex: 1;
-    
 }
+    
 .img2{
-    height: 250px;
+    height: 400px;
+    width: 400px;
     padding-bottom: 50px;
     padding-top: 50px;   
-    margin-left: -70px;   
+    margin-left: -60px;   
     flex: 1;
 }
 .img3{
-    height: 250px;
+    height: 400px;
+    width: 400px;
     padding-bottom: 50px;
     padding-top: 50px;   
-    margin-left: -15px;   
+    margin-left: -50px;
     flex: 1;
 }
